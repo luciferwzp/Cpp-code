@@ -1,3 +1,3 @@
 # C-code
-//平时所练习的每日一题
+//牛客和Leecode的代码
 code
