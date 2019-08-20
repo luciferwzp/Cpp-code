@@ -1,3 +1,3 @@
 # C-code
-//牛客和Leecode的代码
+//牛客 和 Leecode 上练习的代码
 code
