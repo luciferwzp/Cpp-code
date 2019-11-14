@@ -6,7 +6,6 @@
 //测试样例： 2，3 
 //返回：1
 
-
 class LCA 
 {
     public:
